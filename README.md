@@ -2,12 +2,12 @@
 O desafio proposto foi a construção de um ToDo list.
 
 Padrões utilizados:
--> NextJS
--> Typescript
--> ChakraUI
--> GoogleFonts
--> React Icons
--> Axios
+- NextJS
+- Typescript
+- ChakraUI
+- GoogleFonts
+- React Icons
+- Axios
 
 Hooks utilizados
 - useState
